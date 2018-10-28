@@ -1,5 +1,5 @@
 {
-  "name": "flow-editor",
+  "name": "@realign/flow-editor",
   "version": "0.0.0",
   "description": "flow editor",
   "main": "index.js",
