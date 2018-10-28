@@ -1,0 +1,25 @@
+{
+  "name": "@realign-zone/flow-editor",
+  "version": "0.0.1",
+  "description": "flow editor",
+  "main": "dist/flow-editor.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReAlign/flow-editor.git"
+  },
+  "keywords": [
+    "flow",
+    "flow-editor",
+    "diagram",
+    "editor"
+  ],
+  "author": "ReAlign",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ReAlign/flow-editor/issues"
+  },
+  "homepage": "https://github.com/ReAlign/flow-editor#readme"
+}
