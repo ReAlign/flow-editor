@@ -1,2 +1,3 @@
-# flow-editor
-flow editor
+# flow-graph-editor
+
+> flow-graph-editor
