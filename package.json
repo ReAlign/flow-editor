@@ -1,0 +1,25 @@
+{
+  "name": "flow-editor",
+  "version": "0.0.0",
+  "description": "flow editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReAlign/flow-editor.git"
+  },
+  "keywords": [
+    "flow",
+    "editor",
+    "diagram-editor",
+    "visualization"
+  ],
+  "author": "ReAlign",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ReAlign/flow-editor/issues"
+  },
+  "homepage": "https://github.com/ReAlign/flow-editor#readme"
+}
