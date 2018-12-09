@@ -4,6 +4,9 @@
   "main": "dist/flow-editor.cjs.js",
   "module": "dist/flow-editor.esm.js",
   "unpkg": "dist/flow-editor.min.js",
+  "files": [
+    "dist"
+  ],
   "keywords": [
     "flow",
     "graph",
