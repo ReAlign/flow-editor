@@ -1,6 +1,7 @@
 {
-  "name": "flow-editor",
-  "version": "0.0.1",
+  "name": "@realign-zone/flow-editor",
+  "version": "0.0.2",
+  "description": "flow editor",
   "main": "dist/flow-editor.cjs.js",
   "module": "dist/flow-editor.esm.js",
   "unpkg": "dist/flow-editor.min.js",
@@ -19,7 +20,14 @@
     "flow-chart-editor"
   ],
   "scripts": {},
-  "author": "hzanliangjun",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReAlign/flow-editor.git"
+  },
+  "author": "ReAlign",
   "license": "Apache-2.0",
-  "homepage": "https://g.hz.netease.com/kaolafed-cbg/flow-editor"
+  "bugs": {
+    "url": "https://github.com/ReAlign/flow-editor/issues"
+  },
+  "homepage": "https://github.com/ReAlign/flow-editor#readme"
 }
