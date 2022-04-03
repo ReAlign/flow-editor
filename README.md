@@ -4,7 +4,7 @@
 
 ![png](https://haitao.nos.netease.com/5c795665-4e6f-496c-9ff2-c3d21afe000e_2904_1198.png)
 
-* [online-demo](http://realign.pw/flow-editor/)
+* [online-demo](https://codepen.io/realign/full/EGxyzZ)
 
 ## 功能说明
 
