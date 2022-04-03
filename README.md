@@ -2,7 +2,7 @@
 
 ## DEMO
 
-![png](https://haitao.nos.netease.com/5c795665-4e6f-496c-9ff2-c3d21afe000e_2904_1198.png)
+![png](https://gw.alicdn.com/imgextra/i1/O1CN01E5Em8h1EkCohw1CRZ_!!6000000000389-2-tps-3074-1540.png)
 
 * [online-demo](https://codepen.io/realign/full/EGxyzZ)
 
